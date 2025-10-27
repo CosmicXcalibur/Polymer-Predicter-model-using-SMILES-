@@ -1,0 +1,19 @@
+# Core libraries
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+optuna
+
+# Gradient boosting libraries
+xgboost
+lightgbm
+catboost
+
+# Graph processing
+networkx
+
+# Chemistry / molecular features
+rdkit-pypi
